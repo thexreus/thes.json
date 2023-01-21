@@ -1,1 +1,1 @@
-# thes.json
+# thes.resmi
